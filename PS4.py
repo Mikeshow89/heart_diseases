@@ -20,5 +20,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... plt.title("Maximum Temperature by State")
 ... plt.xticks(rotation=90, ha="right")
 ... plt.show()
->>> [DEBUG ON]
->>> [DEBUG OFF]
